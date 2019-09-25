@@ -1,5 +1,38 @@
 # Changelog
 
+## 0.113.0
+
+<details><summary>google/cloud-automl 0.6.0</summary>
+
+
+
+### Features
+
+* Add request metadata types. ([#2346](https://www.github.com/googleapis/google-cloud-php/issues/2346)) ([e26e337](https://www.github.com/googleapis/google-cloud-php/commit/e26e337))
+
+</details>
+
+<details><summary>google/cloud-firestore 1.9.0</summary>
+
+
+
+### Features
+
+* Add constant for collection group query scope. ([#2335](https://www.github.com/googleapis/google-cloud-php/issues/2335)) ([7e133f1](https://www.github.com/googleapis/google-cloud-php/commit/7e133f1))
+* Add Firestore session handler. ([#2258](https://www.github.com/googleapis/google-cloud-php/issues/2258)) ([f5f006b](https://www.github.com/googleapis/google-cloud-php/commit/f5f006b))
+
+</details>
+
+<details><summary>google/cloud-pubsub 1.18.0</summary>
+
+
+
+### Features
+
+* Update request timeout configuration. ([#2347](https://www.github.com/googleapis/google-cloud-php/issues/2347)) ([aa0ef44](https://www.github.com/googleapis/google-cloud-php/commit/aa0ef44))
+
+</details>
+
 ## 0.112.0
 
 <details><summary>google/cloud-bigquery 1.12.1</summary>
