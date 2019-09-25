@@ -11,6 +11,7 @@
             "name": "google/cloud",
             "defaultService": "servicebuilder",
             "versions": [
+                "v0.113.0",
                 "v0.112.0",
                 "v0.111.0",
                 "v0.110.0",
@@ -181,6 +182,7 @@
             "name": "google/cloud-automl",
             "defaultService": "automl/readme",
             "versions": [
+                "v0.6.0",
                 "v0.5.0",
                 "v0.4.0",
                 "v0.3.0",
@@ -729,6 +731,7 @@
             "name": "google/cloud-firestore",
             "defaultService": "firestore/firestoreclient",
             "versions": [
+                "v1.9.0",
                 "v1.8.0",
                 "v1.7.1",
                 "v1.7.0",
@@ -1072,6 +1075,7 @@
             "name": "google/cloud-pubsub",
             "defaultService": "pubsub/pubsubclient",
             "versions": [
+                "v1.18.0",
                 "v1.17.0",
                 "v1.16.0",
                 "v1.15.0",
